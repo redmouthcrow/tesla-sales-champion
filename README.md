@@ -6,7 +6,7 @@
 
 1. 阅读 [`SKILL.md`](SKILL.md) — 模型行为规则  
 2. 阅读 [`references/HOST.md`](references/HOST.md) — 如何组装 system prompt  
-3. 将培训材料放入 [`knowledge/training/`](knowledge/training/)  
+3. 培训材料已在 [`knowledge/training/`](knowledge/training/)（由 `最新产品100问.pdf` 拆分）  
 4. 将销冠 Q&A 放入 [`knowledge/champion-qa/`](knowledge/champion-qa/)  
 5. 更新 [`knowledge/META.md`](knowledge/META.md) 版本与生效日期  
 
